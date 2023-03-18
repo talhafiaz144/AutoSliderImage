@@ -1,0 +1,8 @@
+${PODS_ROOT}/Target Support Files/Pods-slideshow/Pods-slideshow-frameworks.sh
+${BUILT_PRODUCTS_DIR}/AFNetworking/AFNetworking.framework
+${BUILT_PRODUCTS_DIR}/Alamofire/Alamofire.framework
+${BUILT_PRODUCTS_DIR}/AlamofireImage/AlamofireImage.framework
+${BUILT_PRODUCTS_DIR}/CardTabBar/CardTabBar.framework
+${BUILT_PRODUCTS_DIR}/ImageSlideshow/ImageSlideshow.framework
+${BUILT_PRODUCTS_DIR}/JTMaterialSwitch/JTMaterialSwitch.framework
+${BUILT_PRODUCTS_DIR}/SDWebImage/SDWebImage.framework
